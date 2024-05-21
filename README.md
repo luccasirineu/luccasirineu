@@ -2,7 +2,7 @@
 <hr>
 
 <p>🎓 Cursando Análise desenvolvimento de sistemas na <a href="https://www.cruzeirodosul.edu.br/" target="blank_">Universidade Cruzeiro do Sul</a></p>
-<p>📚 Estudando aws e docker</p>
+<p>📚 Estudando aws, docker e Microsservico</p>
 <br>
 
 
