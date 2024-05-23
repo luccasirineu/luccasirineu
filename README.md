@@ -10,7 +10,7 @@
 
 Tecnologias nas quais estou focado:
 <p>-Java</p> 
-<p>-Spring (Web, Data JPA, Boot)</p>
+<p>-Spring (Web, Data JPA, Boot, Security)</p>
 <p>-Microservices</p>
 <p>-Testes Unitários/Integrados</p>
 <p>-Banco de dados relacional e não relacional (Postgresql, MySQL, MongoDB)</p>
