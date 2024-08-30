@@ -6,7 +6,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,mongodb,postgresql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,mongodb,postgresql,python,flask)](https://skillicons.dev)
 
 Tecnologias nas quais estou focado:
 <p>-Java</p> 
