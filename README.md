@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,mongodb,postgresql,python,flask)](https://skillicons.dev)
 
-Tecnologias nas quais estou focado:
+STACK:
 <p>-Java</p> 
 <p>-Spring (Web, Data JPA, Boot, Security, Cloud)</p>
 <p>-Microservices</p>
