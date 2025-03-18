@@ -1,7 +1,7 @@
 <code>System.out.println(Bem vindo ao meu github!")</code>
 <hr>
 
-<p>🎓 Cursando Análise desenvolvimento de sistemas na <a href="https://www.cruzeirodosul.edu.br/" target="blank_">Universidade Cruzeiro do Sul</a></p>
+<p>🎓 Graduado em Análise desenvolvimento de sistemas na <a href="https://www.cruzeirodosul.edu.br/" target="blank_">Universidade Cruzeiro do Sul</a></p>
 <p>📚 Estudando aws, docker e microservices</p>
 <br>
 
